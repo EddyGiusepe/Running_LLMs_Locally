@@ -3,6 +3,7 @@
 
 <font color="pink">Senior Data Scientist.: Dr. Eddy Giusepe Chirinos Isidro</font>
 
+---
 
 Este documento descreve como executar um LLM local usando `llama.cpp` por meio do comando `llama serve`, abrir a interface web local e testar o modelo `unsloth/Qwen3.6-35B-A3B-GGUF`.
 
